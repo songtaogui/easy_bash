@@ -37,8 +37,7 @@ the usages of these packages in their original repository:
 
 - [bushful](https://github.com/jmcantrell/bashful)
 - [has](https://github.com/kdabir/has)
-- [is,sh](https://github.com/qzb/is.sh)
+- [is.sh](https://github.com/qzb/is.sh)
 - [rebash](https://github.com/jandob/rebash)
 - [sub](https://github.com/qrush/sub)
 - [shunit2](https://github.com/kward/shunit2)
-- 
